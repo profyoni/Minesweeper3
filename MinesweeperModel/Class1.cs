@@ -23,7 +23,7 @@ namespace MinesweeperModel
         public List<Cell> OpenCell(int x, int y)
         {
             return null;
-            //throw new NotImplementedException();
+            //throw new NotImplementedException(); 
         }
     }
 }
